@@ -33,11 +33,14 @@ code {
 }
 
 .App-footer {
-  color: #61dafb;
+  color: #ffffff;
   background-color: #282c34;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding-bottom: 4rem;
+  text-decoration: none;
+  font-size: calc(10px + 2vmin);
+  cursor: pointer;
 }
 
