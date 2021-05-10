@@ -4,7 +4,7 @@ export default function footer() {
   return (
     <div>
       <a
-        className="App-link"
+        className="App-footer"
         href="https://github.com/Fedemontagudo"
         target="_blank"
         rel="noopener noreferrer"

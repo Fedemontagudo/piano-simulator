@@ -7,7 +7,7 @@ export default function header() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          KEYBOARD
+          KEYBOARD SIMULATOR
         </p>
       </header>
     </div>
