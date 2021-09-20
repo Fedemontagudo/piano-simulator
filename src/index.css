@@ -44,6 +44,9 @@ code {
   cursor: pointer;
 }
 
-.Tecla {
-  color: #ffffff;
+
+
+.Teclado {
+  display: inline-flex;
+
 }

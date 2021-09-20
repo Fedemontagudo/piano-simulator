@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <section className="teclado" >
+      <section className="Teclado" >
         {teclas.map(tecla => (
           <Tecla
             key={tecla.id} />

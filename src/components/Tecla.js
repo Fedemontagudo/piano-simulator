@@ -6,9 +6,9 @@ import teclas from '../teclas.json'
 
 export default function Tecla() {
   return (
-    <div>
+    <div className='>Teclas'>
       <button
-        className='tecla'
+        className='Tecla'
       >
         {teclas.nombre}
       </button>
